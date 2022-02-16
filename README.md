@@ -1,2 +1,2 @@
-# my_test_site
+# mytestsite
 "Local Library website written in Django".
